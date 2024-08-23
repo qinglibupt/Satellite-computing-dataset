@@ -11,18 +11,14 @@ The dataset is organized into two main folders corresponding to the two satellit
 
 ### 1. **Baoyun**
    - **Telemetry**: Contains telemetry data collected from the Baoyun satellite during its mission.
-   - **Active experiment data**: Data from experiments conducted on the Baoyun satellite and on ground-based testbeds.
-     - **satellite**: Experimental data collected from the Raspberry Pi device on Baoyun.
-     - **ground**: Experimental data collected on ground-based testbeds.
+   - **Active experiment data**: Data from experiments conducted on the Baoyun satellite.
+     
 
 ### 2. **BUPT-1**
    - **Telemetry**: Contains telemetry data collected from the BUPT-1 satellite during its mission.
    - **Active experiment data**: Logs from experiments conducted on the BUPT-1 satellite and on ground-based testbeds.
-     - **satellite**: Experimental data collected on the satellite.
-       - **RPi**: Data collected from experiments conducted on Raspberry Pi devices on the satellite.
-       - **Atlas**: Data collected from experiments conducted on Atlas 200DK computing devices,on the satellite.
-     - **ground**: Experimental data collected on ground-based testbeds.
-       - **RPi**: Ground-based data collected using Raspberry Pi devices.
-       - **Atlas**: Ground-based data collected using  Atlas 200DK computing devices.
+      - **RPi**: Data collected from experiments conducted on Raspberry Pi devices on the satellite.
+      - **Atlas**: Data collected from experiments conducted on Atlas 200DK computing devices,on the satellite.
+    
 
 
